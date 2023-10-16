@@ -153,6 +153,8 @@ print(paste('mean = ', mean(my1000$k25),' sd = ',sd(my1000$k25)))
 ```
 
 
+With 25 samples averaged together the graphs are becoming more unimodal compared to having smaller sample sizes averaged.
+ 
 
 
 
