@@ -103,3 +103,7 @@ p + ggtitle("n = 9") +
 print(paste('mean = ', mean(my1000$k9),' sd = ',sd(my1000$k9)))
 
 ```
+
+The graph is appearing unimodal around where we have 9 samples. But we have a bimodal distribution in the beginning and end of the graphs where they are progressing towards a unimodal distribution. 
+ 
+ 
