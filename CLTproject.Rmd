@@ -127,3 +127,10 @@ p + ggtitle("n = 16") +
 print(paste('mean = ', mean(my1000$k16),' sd = ',sd(my1000$k16)))
 
 ```
+ 
+The graph is looking more unimodal than before with us having 16 samples averaged together. 
+
+
+
+
+
