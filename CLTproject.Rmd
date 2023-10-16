@@ -176,7 +176,7 @@ print(paste('mean = ', mean(my1000$k36),' sd = ',sd(my1000$k36)))
 
 ```
 
-
+We went through samples to show the Central Limit Theorem. While increasing our sample sizes, we began to get graphs that looked more unimodal than each one before. When we have a sample size of 36 it gave us graphs that are averaged together with the most even distribution out of the sample sizes we were given. 
 
 
 
